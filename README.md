@@ -99,5 +99,4 @@ I like to learn more on displaying images responsively using ```srcset``` attrib
 
 - Website - [Adekola Olawale](https://studiogenix.netlify.app)
 - Frontend Mentor - [@Kola92](https://www.frontendmentor.io/profile/Kola92)
-- Twitter - [@yourusername](https://www.twitter.com/olawale_adekola)
-
+- Twitter - [@olawale_adekola](https://www.twitter.com/olawale_adekola)

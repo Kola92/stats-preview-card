@@ -15,8 +15,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -103,4 +101,3 @@ I like to learn more on displaying images responsively using ```srcset``` attrib
 - Frontend Mentor - [@Kola92](https://www.frontendmentor.io/profile/Kola92)
 - Twitter - [@yourusername](https://www.twitter.com/olawale_adekola)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**

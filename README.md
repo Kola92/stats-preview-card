@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-preview-card-with-css-grid-mFXQpqCa3)
-- Live Site URL: [Add live site URL here](https://statistics-preview.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-preview-card-with-css-grid-mFXQpqCa3)
+- Live Site URL: [Live site URL](https://statistics-preview.netlify.app/)
 
 ## My process
 
